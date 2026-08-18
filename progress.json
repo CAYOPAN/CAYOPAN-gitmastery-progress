@@ -161,5 +161,15 @@
       "You are not ignoring runaway.txt. Find where the file is and fix that."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1787063596.374085,
+    "completed_at": 1787063606.590918,
+    "comments": [
+      "You are not ignoring runaway.txt. Find where the file is and fix that.",
+      "You have not committed the relevant changes yet!"
+    ],
+    "status": "Incomplete"
   }
 ]
